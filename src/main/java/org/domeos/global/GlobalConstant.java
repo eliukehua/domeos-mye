@@ -79,5 +79,9 @@ public class GlobalConstant {
     public static String MYSQL_PASSWORD="MYSQL_PASSWORD";
 
     public static String UPDATE_JOB_CONTAINER="pub.domeos.org/rolling-updater:v0.1";
+    /*
     public static String K8S_JOB_VERSION="extensions/v1beta1";
+    */
+    public static String K8S_JOB_VERSION="batch/v1";
+    
 }
